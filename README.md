@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Frontend Devlopment
 - 💞️ I’m looking to collaborate on Frontend Projects
-- 📫 Contact me on 9116901817
+- 📫 Contact me on +91 9116901817
   
   
 
