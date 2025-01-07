@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Ayan Khan
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Frontend Devlopment
-- 💞️ I’m looking to collaborate on Frontend Projects
-- 📫 Contact me on +91 9116901817
+- 👀 🎙️ Speaker | Community Leader
+- 💻 Frontend Developer passionate about AI, Chatbots, and NLP
+- 🌐 Currently exploring full-stack development and open-source contributions
+- 📚 BCA Student at Star Infotech College
+- 🚀 Career Goal: Software Engineer at FANG/MANG
+- 🎯 Projects: Intent-Based Chatbot, Ice Cream Parlor Web App
+- 📫 Let’s connect: www.linkedin.com/in/ayankhan16105
+
+
   
   
 
